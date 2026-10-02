@@ -37,20 +37,24 @@ Per the official competition rules (§11.10), the Builder Robot operates **100% 
 
 ## 🧠 Finite State Machine (FSM) Architecture
 
-The autonomous decision engine is modeled as a 21-state Stateflow machine in Simulink (`matlab_sim/BR_FSM_Sim.slx`):
+The autonomous decision engine is modeled as a 30-state Stateflow machine in Simulink (`matlab_sim/BR_FSM_Sim.slx`). **V4 Strategic Expansion** includes:
+* **Multi-Block Carry:** Loops back to wait for 2 blocks before driving (unless it's a Sky block).
+* **Tactical Evaluator:** Decides dynamically between Normal Build and Snatch Attack.
+* **Bi-directional L2 Snatching:** Crawls up L2, steals an opponent's Sky block, and crawls backward down.
+* **178.5s Emergency Drop:** Instantly drops blocks at the end of the match to avoid 0-point penalties.
 
-```
-Row 1 (Climb L1)  : IDLE ──▶ NAV_TO_STAIR_1 ──▶ ENGAGE_STEP_1 ◀══(4-step loop)══▶ CLIMBING_L1 ──▶ LEVEL_REACHED_L1
-                                                                                                    │
-Row 2 (Docking)   : PICK_BLOCK ◀── WAIT_FOR_BLOCK ◀── TRANSFER_READY ◀─────────────────────────────┘
+```text
+[ Existing Row 1-5 Layout untouched, new logic branches downward ]
+
+Row 3 (Building)  : PICK_BLOCK 
                          │
-Row 3 (Building)  : DRIVE_TO_TOWER_AREA ──▶ DETECT_GREEN_SPOT ──▶ ALIGN_TO_SPOT ──▶ PLACE_BLOCK
-                                                                                        │
-Row 4 (Sanctuary) : WAIT_FOR_MUSTIKA ◀── [Unlocked!] ── CHECK_SANCTUARY ── [Need More] ──▶ RETURN_TO_TRANSFER ──┐
-                         │                                                                                       │
-                         │                                                       (Loops back to WAIT_FOR_BLOCK) ─┘
-                         ▼
-Row 5 (Enshrine)  : PICK_MUSTIKA ──▶ NAV_TO_L2 ──▶ ALIGN_TO_PILLAR ──▶ ENSHRINE_MUSTIKA ──▶ MATCH_COMPLETE (🏆)
+Row 6 (Tactics)   : DECIDE_TACTICAL ──[Normal Build]──▶ DRIVE_TO_TOWER_AREA ...
+                         │
+Row 7 (Snatch Up) :  [Snatch Enemy Sky!] ──▶ NAV_STAIR_UP_L2 ──▶ CLIMBING_L2 ──▶ SNATCH_BLOCK 
+                                                                                      │
+Row 8 (Snatch Dn) :  [Back to Action] ◀── RETURN_TO_TRANSFER ◀── DESCENDING_L2 ◀── NAV_STAIR_DOWN_L2 
+
+Col 6 (Panic)     : EMERGENCY_DROP (Catches match_time >= 178.5s across all branches)
 ```
 
 ### 📈 Match Timeline Progression
