@@ -1,0 +1,1413 @@
+ABU ASIA-PACIFIC ROBOT CONTEST 2027
+SOLO, INDONESIA
+
+Theme & Rules
+“The Pursuit of Mustika Nusantara”
+
+July 2026
+(V1.0)
+August
+2026
+(V1.0)
+Asia-Pacific Robot Contest 2027 Solo, Indonesia
+Organising Committee
+http://www.aburobocon2027.id
+
+Contents
+
+Background and Concept
+
+5
+
+The Importance of Safety
+
+5
+
+Contest
+
+5
+
+Contest Dates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6
+
+1. Game Field and Object
+
+7
+
+2. Terms and Definitions
+
+8
+
+3. Game Outline
+
+11
+
+3.1 Method of the Match . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+11
+
+3.2 Operating Zones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12
+
+3.3 Start of the Match . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12
+
+3.4 Handling of Game Objects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12
+
+3.5 Tower Construction and Interaction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+13
+
+3.6 Sanctuary Mandate and Mustika . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+13
+
+3.7 End of the Match . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14
+
+4. Game Procedure
+
+14
+
+4.1 Setup of Robots and Objects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14
+
+4.2 Match Start and Duration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15
+
+2
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+4.3 Operating Zones and Constraints . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15
+
+4.4 Handling and Transfer of Objects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+16
+
+4.5 Sanctuary Mandate and Mustika Retrieval . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+16
+
+4.6 End of Match and Scoring State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+16
+
+5. Retry
+
+16
+
+5.1 Retry Protocols . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+17
+
+5.2 Requesting a Retry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+17
+
+5.3 Retry Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+17
+
+6. Violation
+
+18
+
+6.1 No-Pushing Rule . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18
+
+6.2 Zone Violation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18
+
+6.3 Handover Violation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18
+
+6.4 Out of Bounds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18
+
+6.5 Dropped Objects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18
+
+6.6 Blocking and Interference (Shared Areas) . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+6.7 Unauthorized Touching . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+7. Disqualifications
+
+19
+
+7.1 Intentional Damage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+7.2 Displacement of Placed Blocks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+7.3 Safety Violations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+7.4 Unsportsmanlike Conduct . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+8. Scoring
+
+20
+
+8.1 Transfer Points (TR Tasks) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+20
+
+8.2 Individual Block Scoring (Tower Placement) . . . . . . . . . . . . . . . . . . . . . . . . .
+
+20
+
+8.3 Ownership and Individual Counting
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+20
+
+8.4 Multi-Team Towers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+21
+
+8.5 Mission Points (The Mustika) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+21
+
+8.6 Invalid Scoring Scenarios . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+21
+
+9. Deciding the Winner
+
+21
+
+9.1 Match Duration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+
+21
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+9.2 Total Score Calculation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+22
+
+9.3 Tie-breaking Criteria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+22
+
+9.4 Scoring State and Objections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+22
+
+10. Teams
+
+23
+
+11. Robot
+
+23
+
+12. Safety
+
+24
+
+13. Other
+
+25
+
+14. Colors and Materials Specification
+
+25
+
+4
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Background and Concept
+
+The Legend of Mustika Nusantara
+Long before modern technology existed, ancient visionary engineers constructed monumental
+temple circuits to harmonize the raw forces of nature. These structures were far more than just
+stone monuments; they functioned as a massive, interconnected energy network. At the very
+peak of this architecture sat the Mustika—a radiant artifact that activated and stabilized the grand
+Nusantara energy grid across the archipelago. Over the centuries, time has scattered these
+perfect foundations, leaving the ancient grid completely silent. Now, a new generation of bold
+robotics teams is called upon to resurrect this sacred stone architecture and restore its lost power.
+
+To accomplish this task, teams must design machines that combine raw lifting strength with sophisticated automation. The Transporter Robot (TR) acts as the agile gatherer, navigating the lower terrain
+to harvest the heavy Earth Blocks and delivering them to the designated transfer zone. The Builder
+Robot (BR), a fully autonomous master architect, precisely stacks these foundations to rebuild the lost
+pillars, sealing the energy circuit by placing the crowning Sky Block at the very top. The ultimate test
+unfolds in the fiercely contested central zone, where rival builders race to enshrine the Mustika on the
+highest pillar and reboot the grid. The competition is designed as a grueling, three-minute marathon
+of relentless vertical logistics.
+
+The Importance of Safety
+
+▶ Safety First
+Safety is the highest priority in ABU Robocon. Teams must prioritize safety during all stages,
+including robot design, manufacturing, and contest participation. Full cooperation with organizers
+is required to ensure a safe environment for everyone involved (team members, spectators,
+officials, and the surroundings). All team members must wear organizer-specified safety gear
+during games and practice sessions.
+
+Contest
+
+All domestic competitions selecting teams for ABU Robocon 2027 Solo, Indonesia must adhere to
+the rules in this rulebook. However, if specified materials are unavailable for domestic contests, local
+organisers should use the best possible replacements available in their country/region.
+
+5
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Contest Dates
+Date
+
+Event
+
+27/8/2027 (Fri)
+
+Arrival
+
+28/8/2027 (Sat)
+
+Test-run, Rehearsal
+
+29/8/2027 (Sun)
+
+Contest Date
+
+30/8/2027 (Mon)
+
+ABU General Meeting
+
+31/8/2027 (Tue)
+
+Departure
+
+Contest Venue: Edutorium UMS, Solo, Indonesia
+
+6
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+1. Game Field and Object
+
+Figure 1: Game Field Overview — ABU Robocon 2027
+
+7
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Figure 2: Game Field Dimensions — ABU Robocon 2027
+
+2. Terms and Definitions
+
+Terms
+
+Definitions
+
+Game Field
+
+The main contest venue measuring 11000 mm × 11000 mm,
+divided into specific operational zones for both teams.
+
+Ground Area
+
+The lowest flat surface of the Game Field where the Start
+Zone, Storage Area, Shared Area, and Mustika Pillar are
+located, serving as the primary operating ground for the
+Transporter Robot (TR).
+
+Start Zone
+
+Two designated boxes measuring 700 mm × 700 mm each in
+the Ground Area. Teams have the strategic freedom to choose
+which box is for the Transporter Robot (TR) and which is for the
+Builder Robot (BR).
+
+8
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Terms
+
+Definitions
+
+Retry Zone
+
+The same physical location as the Start Zone. During a retry,
+
+(Ground)
+
+the malfunctioning robot must be returned to its Start Zone
+before it can resume operation.
+
+Retry Zone (L1)
+
+A designated area on Level 1 measuring 700 mm × 700 mm,
+located on each team’s side. During a retry, BR may be
+returned to the L1 Retry Zone instead of the Ground Start
+Zone, allowing faster recovery when operating on the upper
+levels.
+
+Storage Area
+
+The exclusive area in each team’s Ground Area measuring
+1000 mm × 2000 mm. This is where 20 Earth Blocks are
+initially placed for the team to harvest.
+
+Ground Shared
+
+The central contested zone in the Ground Area measuring
+
+Area
+
+1200 mm × 1200 mm. This area holds 12 Sky Blocks placed
+in an alternating pattern and can be accessed by both teams.
+An additional shared area of 1000 mm × 1000 mm is located
+around the Mustika Pillar and can also be accessed by both
+teams.
+
+Mustika Pillar
+
+A cylindrical pedestal located in the Ground Area where the
+Mustika is placed at the start of the match. Dimensions: height
+500 mm, diameter 270 mm, with a concave receptacle at the
+top (diameter 180 mm, depth 100 mm) to securely hold the
+Mustika before retrieval by the robots.
+
+Transporter Robot
+
+A manually or automatically controlled robot (maximum starting
+
+(TR)
+
+size: 700 mm × 700 mm) that harvests blocks and the Mustika
+from the Ground Area and delivers them to the Transfer Area.
+
+Builder Robot (BR)
+
+An automatic robot (maximum starting size: 700 mm × 700
+mm) that picks up or receives objects from TR at the Transfer
+Area, constructs towers on Level 1 and Level 2, and is
+responsible for enshrining the Mustika on the Central Pillar.
+
+Earth Block
+
+A cubic object measuring 350 mm × 350 mm × 350 mm
+(±5%) used as the foundation and middle section of a tower.
+Each team is provided with 20 units. Material: 3-layer
+corrugated cardboard box, all six sides covered with stickers.
+Approximate weight: 600 grams per unit (±20%).
+
+9
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Terms
+
+Definitions
+
+Sky Block
+
+A cubic shared object measuring 200 mm × 200 mm × 200
+mm (±5%), colored red on one side and blue on the other,
+used to cap the top of a tower. There are 12 units available in
+the Share Zone. Material: 3-layer corrugated cardboard box,
+all six sides covered with stickers, featuring reinforced
+claws/hooks to prevent the box from opening when lifted by
+suction mechanisms. Approximate weight: 220 grams per unit
+(±20%).
+
+Mustika
+
+The Great Artifact in the shape of a sphere (approximately 210
+mm diameter), worth 250 points, to be enshrined on the
+Central Pillar. A Mikasa V300W volleyball (Size 5,
+circumference 65–67 cm) shall be used in its original condition
+without additional paint or coating. Approximate weight:
+260–280 grams.
+
+Level 1 (L1)
+
+The first elevated platform, standing 600 mm above the
+Ground Area, measuring 6000 mm × 6000 mm. Accessed
+from the Ground Area via a ramp (3500 mm in length) or stairs.
+Stairs: Steps connecting the Ground Area to Level 1, with
+each step measuring 300 mm (length) × 1000 mm (width) ×
+150 mm (height).
+
+Level 2 (L2)
+
+The highest elevated platform, standing 300 mm above Level 1
+(900 mm above the Ground Area), measuring 3000 mm ×
+3000 mm. Accessed from Level 1 via stairs, with a step
+measuring 300 mm (length) × 1000 mm (width) × 150 mm
+(height).
+L2 Shared Area: The entire platform of Level 2, which is open
+to both teams for building towers.
+
+Transfer Area
+
+A designated 1000 mm × 1000 mm zone at the boundary of
+L1 where TR and BR exchange game objects. TR may hand
+over objects directly to BR or place them on the floor within this
+boundary for BR to retrieve.
+
+10
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Terms
+
+Definitions
+
+Building Spot
+
+The green-colored target squares with a built-in tolerance
+measuring 500 mm × 500 mm, located on L1 (exclusive and
+shared) and L2 (all shared) where Complete Towers must be
+constructed by the Builder Robot.
+L1 Shared Area: The contested zone located on the boundary
+between the Red and Blue sides of Level 1.
+
+Central Pillar
+
+The tallest cylindrical structure on Level 2 where the Mustika
+must be enshrined to complete the ultimate objective.
+Dimensions: height 800 mm, diameter 270 mm, with a
+concave receptacle at the top (diameter 180 mm, depth 100
+mm) for Mustika enshrinement.
+
+Fence / Barrier
+
+Vertical partition walls and edge barriers used to define zone
+boundaries on the Game Field. Two types are used:
+Center Divider: A fence running along the center line of the
+Ground Area and Level 1, separating the Red Zone from the
+Blue Zone.
+L1 Perimeter Barrier: A barrier along the outer edges of Level
+1 to prevent robots and objects from falling off the elevated
+platform.
+
+Complete Tower
+
+A fully constructed structure consisting of exactly two Earth
+Blocks stacked vertically and crowned with one Sky Block
+facing the correct team color, placed in order on a Building
+Spot.
+
+Sanctuary Mandate
+
+The strategic requirement to build at least two Complete
+Towers, with at least one of those towers located in an upper
+shared zone (either L1 Shared Area or L2 Shared Area), to
+unlock the eligibility to place the Mustika.
+
+3. Game Outline
+
+3.1 Method of the Match
+3.1.1 A match is contested between a red team and a blue team.
+3.1.2 The match lasts for exactly three minutes.
+
+11
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Figure 3: Game Field Labeled Area Names — ABU Robocon 2027
+3.1.3 The winner is decided by the total accumulated score at the end of the match.
+
+3.2 Operating Zones
+3.2.1 Transporter Robot (TR) is permitted to operate in the Ground Area and reach the Transfer
+Area. TR is strictly prohibited from entering any other parts of Level 1 (L1) or Level 2 (L2).
+3.2.2 Builder Robot (BR) is permitted to operate in the Transfer Area, Level 1 (L1), and Level 2
+(L2).
+
+3.3 Start of the Match
+3.3.1 At the start of the match, TR and BR must be positioned within their respective Start Zones.
+3.3.2 The match begins upon the start signal from the referee.
+
+3.4 Handling of Game Objects
+3.4.1 TR harvests Earth Blocks from the Storage Area and Sky Blocks from the Ground Share
+Area.
+
+12
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+3.4.2 TR transports these objects to the Transfer Area on Level 1 (L1).
+3.4.3 TR is permitted to carry a maximum of three (3) blocks at any time.
+3.4.4 BR is permitted to carry a maximum of two (2) blocks at any time.
+3.4.5 In the Transfer Area, TR may hand objects directly to BR or place them on the floor within
+the area’s boundary for BR to retrieve. While touching the Ground Area, TR cannot place
+objects on the Transfer Area.
+
+3.5 Tower Construction and Interaction
+3.5.1 BR is fully responsible for constructing Complete Towers on the designated Building Spots
+(500 mm × 500 mm) in L1 and L2.
+3.5.2 A Complete Tower must be assembled by stacking two Earth Blocks vertically (serving as the
+foundation and middle section) and crowning them with one Sky Block (top) in that specific
+order.
+3.5.3 Robots are prohibited from dragging or pushing blocks along the floor of the Game Field to
+the Building Spot; blocks must be actively lifted or carried during the assembly process.
+3.5.4 To place a Sky Block on a tower located in the L2 Shared Area, BR must be physically
+present on Level 2 (L2).
+3.5.5 Earth Blocks that have been correctly placed on a Building Spot must not be moved, removed,
+or interfered with by the opposing team. A team’s own robot may reposition its own Earth
+Blocks on a Building Spot, provided there is no opponent’s Sky Block on top of them.
+3.5.6 Sky Blocks are scored based on the color of their top surface. A team only receives points
+for a Sky Block if its top surface color matches the team’s designated color (Red or Blue).
+3.5.7 The team whose Sky Block color is facing up on top of a tower is considered to have
+completed that tower (Complete Tower), even if the Earth Blocks beneath it were initially
+placed by the opposing team.
+3.5.8 Teams are permitted to flip or change the position of a Sky Block on any tower to ensure their
+color faces upward, effectively “stealing” the tower from the opponent.
+
+3.6 Sanctuary Mandate and Mustika
+3.6.1 A team fulfills the Sanctuary Mandate by successfully constructing at least two (2) Complete
+Towers, provided that at least one (1) of those towers is located in a Shared Area (L1 Shared
+Area or L2 Shared Area).
+3.6.2 Once the Sanctuary Mandate is achieved, the mandate is considered permanently fulfilled
+even if the team’s towers are later modified by the opponent.
+3.6.3 TR retrieves the Mustika and transfers it to BR at the Transfer Area.
+
+13
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+3.6.4 BR then transports and enshrines the Mustika on the Central Pillar located on L2 to complete
+the ultimate objective.
+3.6.5 Teams may continue to build towers or flip Sky Blocks to accumulate points until the match
+time expires.
+
+3.7 End of the Match
+3.7.1 The match concludes the exact moment the three-minute duration has elapsed.
+3.7.2 The final score is tallied based on the state of the blocks and the Mustika at the exact moment
+the match ends. The team with the higher score is declared the winner.
+
+4. Game Procedure
+
+4.1 Setup of Robots and Objects
+4.1.1 Before the match begins, teams are granted one (1) minute to set up their robots and finalize
+their strategy on the field.
+4.1.2 Both Transporter Robot (TR) and Builder Robot (BR) must be positioned completely within
+the two provided Start Zones before set up time ends. Teams have the strategic freedom to
+choose which specific Start Zone box accommodates the TR and which accommodates the
+BR based on their own field strategy. No part of the robots (including mechanisms, grippers,
+or sensors) may exceed the vertical boundary of their chosen Start Zone during the setup
+phase.
+4.1.3 Teams are responsible for placing their twenty (20) Earth Blocks within their designated
+Storage Area. Teams are permitted to stack the blocks, but stacking is strictly limited to a
+maximum height of two (2) Earth Blocks per column. All columns must be completely within
+the Storage Area boundaries.
+4.1.4 The 12 Sky Blocks in the Ground Shared Area shall be placed by the organizer before the
+setup time begins.
+• The blocks will be positioned in an alternating chessboard pattern on a 5×5 grid, leaving
+the exact center spot empty.
+• The placement pattern shall follow the layout shown in Figure 4.
+4.1.5 The Mustika shall be placed on the Mustika Pillar by the organizer before the setup time
+begins.
+4.1.6 Three team members and up to three pit crew members are allowed to participate in the
+set-up.
+
+14
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Figure 4: Sky Block Initial Layout — Mirror-Symmetric Color on 5×5 Grid
+
+4.2 Match Start and Duration
+4.2.1 The match begins immediately upon the sound of the referee’s buzzer or whistle.
+4.2.2 Every match lasts for exactly three (3) minutes (180 seconds).
+4.2.3 The match will not end early, even if the Mustika is enshrined. Teams may continue to score
+transfer point and tower points until the full time elapses.
+4.2.4 Once the match starts, team members are strictly prohibited from touching the robots, the
+game field, or any game objects, except during an authorized Retry.
+
+4.3 Operating Zones and Constraints
+To maintain the specialized roles of the robots, strict zone boundaries are enforced.
+4.3.1 Transporter Robot (TR) is permitted to operate in the Ground Area and enter the Transfer
+Area. TR is strictly prohibited from entering any other part of Level 1 (beyond the Transfer
+Area boundary) or Level 2.
+4.3.2 Builder Robot (BR): Permitted to operate in the Transfer Area, Level 1 (L1), and Level 2 (L2).
+BR may come into contact with the Ground Area during retries or while navigating onto the
+L1 Stairs.
+4.3.3 Zone violations are judged by the vertical projection of any part of the robot crossing into a
+restricted area.
+
+15
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+4.4 Handling and Transfer of Objects
+4.4.1 Robots must lift and carry blocks to move them. Pushing, dragging, or sliding blocks along
+the floor to a Building Spot or Transfer Area is a violation.
+4.4.2 TR may carry a maximum of three (3) blocks at any time, BR may carry a maximum of two
+(2) blocks at any time.
+4.4.3 Transfer Protocol:
+• When picking up or receiving an object from the Transfer Area, BR is permitted to touch
+only objects that are within the Transfer Area, including the airspace above it.
+• TR may hand the object directly to BR or place it on the floor within the Transfer Area
+for BR to retrieve.
+• If an object falls or is released outside the Transfer Area, it is considered a Handover
+Violation.
+• Physical contact between TR and BR during the handover phase is permitted, provided
+that the portions of the robots that are in contact are within the Transfer Area boundary,
+even if other parts of either robot extend beyond it.
+
+4.5 Sanctuary Mandate and Mustika Retrieval
+4.5.1 TR is only permitted to retrieve the Mustika once the team has fulfilled the Sanctuary Mandate
+(successfully constructing at least two Complete Towers, with at least one located in the L1
+Shared Area or L2 Shared Area).
+4.5.2 TR retrieves the Mustika from the Mustika Pillar and delivers it to BR at the Transfer Area.
+BR then carries the Mustika to Level 2 for enshrinement on the Central Pillar.
+
+4.6 End of Match and Scoring State
+4.6.1 When the 3-minute buzzer sounds, all robots must stop immediately.
+4.6.2 The final score is tallied based on the position of blocks and the Mustika at the moment the
+buzzer sounds.
+4.6.3 Any object still being touched, gripped, or supported by a robot when the match ends will not
+be counted for points.
+
+5. Retry
+
+16
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+5.1 Retry Protocols
+5.1.1 A retry can be requested by a team. A team may request a retry at any time by calling
+out "Retry". The robot is returned to its Start Zone, and any objects held by the robot are
+returned to their starting positions (Storage Area or Ground Share Area).
+5.1.2 Referees will call a forced retry if a robot commits violation.
+5.1.3 If a retry is called while a robot is in possession of the Mustika, the Mustika must be returned
+to the Mustika Pillar.
+
+5.2 Requesting a Retry
+5.2.1 A team may request a retry at any time if their robot malfunctions, gets stuck, or if the team
+wishes to reset their strategy.
+5.2.2 The team leader must signal the referee by raising their hand and shouting “Retry!”.
+5.2.3 A retry begins only after the referee acknowledges the request.
+
+5.3 Retry Procedure
+5.3.1 Robot Reset: The affected robot(s) must be moved back in their respective Retry Zone.
+• TR must always be returned to the Start Zone (Ground Retry Zone).
+• BR may be returned to either the Start Zone (Ground Retry Zone) or the L1 Retry Zone,
+at the team’s discretion. To be able to use the L1 Retry Zone, BR must have completely
+entered L1 at least once during the match.
+5.3.2 Object Handling:
+• Any game objects (Earth Blocks or Sky Blocks) held by the robot at the time of the retry
+request may be retained by the robot upon restart.
+• If the Mustika was being carried during a retry, it must be returned to the Mustika Pillar.
+• Objects already correctly placed on a Building Spot or the floor of the Transfer Area
+(and not touched by the robot at the time of the retry) shall remain in place.
+5.3.3 Restart: Robots may restart immediately after acknowledged by the referee.
+5.3.4 Non-Interference:
+• A retry shall be carried out in a manner that does not interfere with the opposing team’s
+actions.
+• When the opposing team has been granted a retry, no team shall intentionally interfere
+with the retry process.
+• During a retry, both teams must make every reasonable effort not to interfere with the
+actions of the opposing team.
+
+17
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+• Violation of any of these provisions may result in a warning or a forced retry at the
+referee’s discretion.
+
+6. Violation
+
+A violation results in a Forced Retry. The referee will call the violation, and the team member must
+immediately stop the offending robot. The robot must then return to the Start Zone following the retry
+procedure.
+
+6.1 No-Pushing Rule
+Robots must lift or carry blocks (Earth Blocks and Sky Blocks). Pushing, dragging, or sliding a block
+along the floor to a Building Spot or Transfer Area is strictly prohibited.
+
+6.2 Zone Violation
+6.2.1 TR (Transporter Robot): Any part of TR (including mechanisms) crossing the vertical boundary into Level 1 (beyond the Transfer Area) or Level 2.
+6.2.2 Opponent’s Territory: Any part of a robot crossing into the opponent’s territory except the
+shared areas.
+
+6.3 Handover Violation
+If BR touches objects which are not completely inside of Transfer area.
+
+6.4 Out of Bounds
+If a robot knocks a block (Earth Block or Sky Block) out of the game field, the block is permanently
+removed from play. If the Mustika is knocked out, it is immediately returned to the Mustika Pillar by the
+referee.
+
+6.5 Dropped Objects
+If a robot drops a block, it must be picked up by actively lifting it. Pushing a dropped block to correct
+its position is a violation of the No-Pushing Rule. If the Mustika is dropped at any point, it must be
+immediately returned to the Mustika Pillar. The Referee is responsible for resetting dropped game
+objects (such as the Mustika) to their initial positions on the field.
+
+18
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+6.6 Blocking and Interference (Shared Areas)
+In the Shared Areas (Ground Share Area, L1 Shared Area, and L2 Shared Area), any physical contact
+or action that clearly results in interfering with the opposing team’s manipulation of game objects shall
+be considered a violation. A robot must not intentionally block the opponent’s path or obstruct the
+opponent’s robot from performing its tasks in these areas. Upon determination of interference by the
+Referee, a Forced Retry will be called on the offending robot.
+
+6.7 Unauthorized Touching
+A team member physically touching the robots, the Game Field, or any game objects without the
+referee’s explicit permission or without an authorized Retry declaration.
+
+7. Disqualifications
+
+A team will be disqualified and lose the match (score set to 0) if they commit any of the following:
+
+7.1 Intentional Damage
+Intentionally damaging the Game Field, game objects (Earth Blocks, Sky Blocks, or the Mustika), or
+the opponent’s robot(s).
+
+7.2 Displacement of Placed Blocks
+Intentionally removing, displacing, or interfering with an opponent’s Earth Block that has already been
+correctly placed on a Building Spot.
+
+7.3 Safety Violations
+Operating a robot that poses a danger to people, the venue, or the field infrastructure (e.g., sharp
+parts flying off, battery smoke, or fire).
+
+7.4 Unsportsmanlike Conduct
+Refusing to follow the referee’s instructions, aggressively arguing with match officials, or engaging in
+behavior that violates the spirit of fair play.
+
+8. Scoring
+
+19
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+The final score for each team is calculated based on the final state of the game objects on the field at
+the exact moment the three-minute match duration elapses (signaled by the buzzer). Any object that
+is still in contact with or being physically controlled by a robot when the match ends will yield zero (0)
+points for its specific task.
+
+8.1 Transfer Points (TR Tasks)
+Points are awarded to the team for the successful logistics performed by the Transporter Robot (TR).
+• Point Value: 5 points are awarded for each block (Earth Block or Sky Block) successfully
+delivered to the Transfer Area.
+• Condition: A block is considered “delivered” once it has been released by the TR and remains
+entirely within the vertical boundaries of the 1000 mm × 1000 mm Transfer Area.
+• Permanence: Transfer points are awarded immediately and remain with the team even if the
+Builder Robot (BR) later retrieves the block to construct a tower.
+
+8.2 Individual Block Scoring (Tower Placement)
+Points are awarded for blocks successfully placed on Building Spots. Unlike the “Transfer Points,”
+these points depend on the level (L1 or L2) where the block is positioned.
+Game Object / Position
+
+Level 1 (L1) Points
+
+Level 2 (L2) Points
+
+Earth Block (First / Bottom Layer)
+
+10 Points
+
+20 Points
+
+Earth Block (Second / Middle Layer)
+
+20 Points
+
+40 Points
+
+Sky Block (Top Layer)
+
+40 Points
+
+80 Points
+
+8.3 Ownership and Individual Counting
+To ensure fairness, each block in a tower is scored independently based on the team that placed it,
+with the exception of the Sky Block.
+8.3.1 Points are awarded to the team that successfully placed the block on the Building Spot. Once
+an Earth Block is correctly placed (either as a foundation or middle layer), its points are
+“locked” to that team and cannot be claimed by the opponent, even if the opponent adds
+more blocks on top of it.
+8.3.2 Points for a Sky Block are awarded based on the color facing upward at the end of the match.
+• If a Sky Block shows Red on top, the Red Team receives the points (40 or 80 pts).
+• If the Blue Team flips that same block to show Blue, the points shift to the Blue Team.
+20
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+8.3.3 Flipping a Sky Block does not grant ownership of the Earth Blocks beneath it. Those
+foundational blocks always score for the team that originally placed them.
+
+8.4 Multi-Team Towers
+In the L1 Shared Area and L2 Shared Area, a tower may be composed of blocks from both teams.
+Example: If the Red Team places the first Earth Block on L2 (20 pts) and the Blue Team stacks the
+second Earth Block on top of it (40 pts), the Red Team keeps their 20 points, and the Blue Team
+earns their 40 points.
+
+8.5 Mission Points (The Mustika)
+The enshrinement of the Mustika represents the completion of the ultimate objective.
+8.5.1 Mustika Enshrinement: 250 points.
+8.5.2 The Mustika must be placed on the Central Pillar (L2) and remain stable at the exact moment
+the match ends.
+8.5.3 Mustika points are awarded to the team that successfully places it, provided they have fulfilled
+the Sanctuary Mandate requirements.
+
+8.6 Invalid Scoring Scenarios
+No points shall be awarded for:
+8.6.1 Any object still being touched, gripped, or supported by a robot when the buzzer sounds.
+8.6.2 Any block placed out of Building Spots or out of the required Complete Tower sequence
+(must strictly follow: Earth Block → Earth Block → Sky Block).
+8.6.3 Blocks that have been knocked out of the building spots.
+8.6.4 Blocks that were pushed, dragged, or slid along the floor to the Building Spot rather than
+actively lifted/carried.
+
+9. Deciding the Winner
+
+The winner of a match is determined by the total accumulated points at the end of the full match
+duration.
+
+9.1 Match Duration
+9.1.1 Each match lasts for a fixed duration of exactly three (3) minutes.
+9.1.2 There is no early victory or “instant win.” Even if a team successfully enshrines the Mustika,
+21
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+the match continues until the timer reaches zero.
+9.1.3 The final scoring state is determined by the exact position and condition of all game objects
+at the exact moment the end-of-match buzzer sounds.
+
+9.2 Total Score Calculation
+The winner is the team with the highest Total Score, calculated as the sum of:
+9.2.1 5 points for every block (Earth Block or Sky Block) successfully delivered to the Transfer Area
+by TR.
+9.2.2 Individual points for every Earth Block and Sky Block correctly placed on Building Spots in
+L1 and L2 by BR.
+9.2.3 250 points for the successful enshrinement of the Mustika on the Central Pillar.
+
+9.3 Tie-breaking Criteria
+If both teams have the same Total Score at the end of the 3-minute match, the winner will be
+determined by the following tie-breakers in descending order of priority:
+9.3.1 The team that successfully enshrined the Mustika on the Central Pillar.
+9.3.2 The team with the higher number of Sky Blocks showing their designated team color facing
+up on top of towers across the entire Game Field.
+9.3.3 The team with the higher total number of blocks (Earth Blocks and Sky Blocks) correctly
+placed on Level 2 (L2) Building Spots.
+9.3.4 The team with the higher total number of blocks (Earth Blocks and Sky Blocks) correctly
+placed on Level 1 (L1) Building Spots.
+9.3.5 If a tie still persists, the referee panel will uniquely determine the winner based on a final
+assessment of technical merit and sportsmanship during the match.
+
+9.4 Scoring State and Objections
+9.4.1 Once the buzzer sounds, the referees will evaluate the field. Robots must be stopped
+immediately and must not be touched by any team member until the evaluation is complete.
+9.4.2 Any object still in contact with or being physically supported by a robot at the 3-minute mark
+will be excluded from the final score.
+9.4.3 The Team Leader must review and sign the official score sheet after the match. Any objections
+must be raised immediately before the score sheet is signed. Once the score sheet is signed,
+the result is absolute and cannot be contested.
+
+22
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+10. Teams
+
+10.1 Each participating country or region shall be represented by one (1) team. Indonesia, as the
+hosting region, will be represented by two (2) teams.
+10.2 A team must consist of exactly three (3) student members and one (1) instructor. All team
+members and the instructor must belong to the same higher education institution (university,
+college, or polytechnic).
+10.3 Up to three (3) additional students from the same institution may be registered as Pit Crew
+members. Pit Crew members are permitted to assist exclusively during preparation in the
+designated Pit Area and are strictly prohibited from entering the Game Field during the
+match.
+10.4 Participation as a team member or Pit Crew is restricted to undergraduate or diploma students.
+Postgraduate students are strictly prohibited from participating in these roles.
+
+11. Robot
+
+11.1 Each team is allowed to bring two (2) robots: one Transporter Robot (TR) and one Builder
+Robot (BR).
+11.2 TR may be manually controlled by an operator or be an automatic robot capable of operating
+independently.
+11.3 BR must be a fully automatic robot capable of operating independently without any manual
+intervention.
+11.4 The initial dimensions of both TR and BR must each strictly fit within 700 mm × 700 mm ×
+700 mm (Length × Width × Height) before the game starts.
+11.5 During the game, when fully extended, the dimensions of TR must not exceed 1000 mm ×
+1400 mm × 1200 mm (Width × Length × Height).
+11.6 During the game, when fully extended, the dimensions of BR must not exceed 1000 mm ×
+1400 mm × 1200 mm (Width × Length × Height).
+11.7 The weight of each individual robot, including its respective batteries, manual operating
+devices, and cables, must not exceed 50 kg per robot.
+11.8 For radio frequency communication between the manual operating devices, and the robot,
+teams are only permitted to use Wi-Fi (IEEE 802.11), Zigbee (IEEE 802.15), and Bluetooth.
+11.9 The Organizer will not control or guarantee the environmental quality of Wi-Fi, Zigbee, or
+Bluetooth signals at the competition venue.
+
+23
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+11.10 TR and BR are strictly prohibited from any communication with each other during the game.
+11.11 Teams may only use batteries, compressed air, and/or elastic force as power sources for
+their robots.
+11.12 The nominal voltage of any battery used in the robots, controllers, or any other related
+devices during the game must not exceed 24V. When connecting batteries in series, the total
+combined nominal voltage must be 24V or less.
+11.13 The power circuits of the robots must be designed so that any actual maximum voltage in the
+circuits does not exceed 42V. If the power supply system includes multiple isolated circuits,
+the voltage in each individual system must remain 42V or less.
+11.14 Teams using compressed air must use either a purpose-built pneumatic container or a plastic
+bottle in pristine condition prepared safely and appropriately. The air pressure in the system
+must not exceed 600 kPa.
+11.15 The following devices and components are strictly prohibited:
+11.15.1 Lead-acid batteries, adhesive-sealed batteries, explosive or high-temperature energy sources, and any items that pose a risk of damaging the Game Field or
+hindering the competition.
+11.15.2 Unsafe lasers. When using lasers, teams must strictly use Class 1 or Class 2
+products that comply with the IEC 60825-1 standard and must implement safety
+measures based on those exact standards.
+11.16 Robot Transportation: The Organising Committee will arrange the transportation of robots
+for all participating teams. Each team is permitted to prepare a maximum of one (1) transportation box. The box must have maximum dimensions of 1500 mm × 800 mm × 900 mm
+(Length × Width × Height). The maximum gross weight of the transportation box must not
+exceed 180 kg.
+11.17 Suction mechanisms are permitted on robots, provided they do not leave any residue on or
+physically damage the game field objects or surfaces.
+
+12. Safety
+
+12.1 The design and construction of all robots must not pose any kind of physical danger to any
+person at the competition venue.
+12.2 All robots (both TR and BR) must be equipped with a clearly visible and easily accessible red
+emergency “STOP” button. Additionally, a remote emergency stop switch is permitted and
+strongly encouraged for enhanced safety.
+12.3 Robots must be designed, manufactured, and operated to ensure the absolute safety of team
+
+24
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+members, opposing teams, surrounding event staff, and the Game Field infrastructure.
+12.4 Team members must wear appropriate safety gear as mandated by the Organizer during all
+matches, test runs, and setup phases.
+12.5 The use of dangerous power sources, hazardous materials, or mechanisms that could
+damage the Game Field or harm participants is strictly prohibited.
+12.6 The use of flying mechanisms or drones as part of the robot design is strictly prohibited due
+to safety concerns and conflicts with the intended game mechanics.
+
+13. Other
+
+13.1 Situations not expressly mentioned in this Rulebook shall be subject to the final decisions of
+the Panel of Judges and the Organising Committee.
+13.2 The dimensions, weights, and other physical specifications of the Game Field and game
+objects described in this Rulebook may have a manufacturing tolerance of ± 5% unless
+otherwise specified.
+13.3 All official inquiries should be directed to the official website of ABU Robocon 2027. An FAQ
+(Frequently Asked Questions) section will be provided and regularly updated on the contest’s
+website.
+13.4 Any changes, updates, or addendums to the Competition Rules will be officially published on
+the website of the ABU Robocon 2027 Organising Committee.
+13.5 Teams must strictly comply with all instructions given by the Organising Committee and
+the referees at all times to ensure the absolute safety of the robots, participants, and all
+personnel involved.
+
+14. Colors and Materials Specification
+
+The following table outlines the material composition and specific RGB color codes for all primary
+elements of the 2027 Game Field. Teams and domestic organisers should refer to this table when
+constructing or painting local game fields to ensure uniformity and visual consistency across all ABU
+Robocon 2027 venues.
+
+Game Field Item
+
+Material Specification
+
+Ground Level
+
+25
+
+Color (R-G-B)
+
+Swatch
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Game Field Item
+
+Material Specification
+
+Color (R-G-B)
+
+Ground Area (Red)
+
+Plywood, Water Paint
+
+240-210-210
+
+Ground Area (Blue)
+
+Plywood, Water Paint
+
+170-210-230
+
+Ground Shared Area
+
+Plywood, Water Paint
+
+245-240-200
+
+Start Zone / Retry
+
+Plywood, Water Paint
+
+223-34-34
+
+Plywood, Water Paint
+
+50-0-255
+
+Storage Area (Red)
+
+Plywood, Water Paint
+
+240-210-210
+
+Storage Area (Blue)
+
+Plywood, Water Paint
+
+170-210-230
+
+Mustika Pillar
+
+PVC pipe (∅270 mm) with
+
+100-62-0
+
+Zone (Red)
+Start Zone / Retry
+Zone (Blue)
+
+wooden cap, Oil Paint
+Transition Elements (Ground to L1)
+L1 Stairs (Red)
+
+Plywood, Water Paint
+
+235-180-160
+
+L1 Stairs (Blue)
+
+Plywood, Water Paint
+
+150-215-220
+
+Ramp (Red)
+
+Plywood, Water Paint
+
+200-150-140
+
+Ramp (Blue)
+
+Plywood, Water Paint
+
+130-180-200
+
+Level 1 Area (Red)
+
+Plywood, Water Paint
+
+235-180-160
+
+Level 1 Area (Blue)
+
+Plywood, Water Paint
+
+150-215-220
+
+Building Spot (L1)
+
+Plywood, Water Paint
+
+40-100-50
+
+L1 Shared Area
+
+Plywood, Water Paint
+
+245-240-200
+
+Transfer Area (Red)
+
+Plywood, Water Paint
+
+245-170-60
+
+Transfer Area (Blue)
+
+Plywood, Water Paint
+
+60-170-245
+
+L1 Perimeter Barrier
+
+Plywood, Water Paint
+
+190-190-185
+
+L1 Retry Zone (Red)
+
+Plywood, Water Paint
+
+223-34-34
+
+L1 Retry Zone (Blue)
+
+Plywood, Water Paint
+
+50-0-255
+
+L1 Side Wall
+
+Plywood, Water Paint
+
+190-190-185
+
+Level 1
+
+Transition Elements (L1 to L2)
+L2 Stairs (Red)
+
+Plywood, Water Paint
+
+26
+
+235-180-160
+
+Swatch
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Game Field Item
+
+Material Specification
+
+Color (R-G-B)
+
+L2 Stairs (Blue)
+
+Plywood, Water Paint
+
+150-215-220
+
+Level 2 Area
+
+Plywood, Water Paint
+
+190-190-185
+
+Building Spot (L2)
+
+Plywood, Water Paint
+
+40-100-50
+
+Central Pillar
+
+PVC pipe (∅270 mm) with
+
+100-62-0
+
+Level 2
+
+wooden cap, Oil Paint
+L2 Side Wall
+
+Plywood, Water Paint
+
+190-190-185
+
+Boundaries and Barriers
+Game Field Boundary
+
+Plywood, Water Paint
+
+100-62-0
+
+Center Divider Fence
+
+Plywood, Water Paint
+
+100-62-0
+
+3-layer corrugated
+
+223-34-34
+
+Game Objects
+Earth Block (Red)
+
+cardboard box, stickers on
+all six sides
+Approx. weight: 600 g
+(±20%)
+Earth Block (Blue)
+
+3-layer corrugated
+
+50-0-255
+
+cardboard box, stickers on
+all six sides
+Approx. weight: 600 g
+(±20%)
+Sky Block (Red Face)
+
+3-layer corrugated
+cardboard box, stickers on
+all six sides, with reinforced
+claws/hooks. Outer surface:
+Matte BOPP. Wall:
+single-wall corrugated board
+Approx. weight: 220 g
+(±20%)
+
+27
+
+223-34-34
+
+Swatch
+
+ABU Robocon 2027 | Official Rulebook
+
+The Pursuit of Mustika Nusantara
+
+Game Field Item
+
+Material Specification
+
+Color (R-G-B)
+
+Sky Block (Blue Face)
+
+3-layer corrugated
+
+50-0-255
+
+Swatch
+
+cardboard box, stickers on
+all six sides, with reinforced
+claws/hooks. Outer surface:
+Matte BOPP. Wall:
+single-wall corrugated board
+Approx. weight: 220 g
+(±20%)
+Mustika (Sphere)
+
+Mikasa V300W volleyball
+
+Original ball
+
+(Size 5, ∅210 mm), used in
+
+color
+
+original condition
+Material: Synthetic leather
+Closest Pantone colors:
+Yellow: Pantone 1235C,
+Blue: Pantone 3591C
+Approx. weight: 260–280 g
+
+28
+
+—
+
+

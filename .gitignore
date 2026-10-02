@@ -1,0 +1,18 @@
+# External & Large Project Repositories
+ABU-Robocon-2027-Gazebo/
+robocon_sim/
+staires Climbing/
+
+# MATLAB & Simulink Cache / Temporary Files
+slprj/
+*.slxc
+*.asv
+*.autosave
+matlab_sim/slprj/
+matlab_sim/*.slxc
+matlab_sim/untitled.slx
+
+# Python & Testing Caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
