@@ -1,7 +1,7 @@
-%% test_br_scenario.m (v3 — matches 21-state FULL REFACTOR FSM)
+%% test_br_scenario.m (v4 — matches 21-state FULL REFACTOR FSM)
 %  -----------------------------------------------------------------------
-%  Feeds scripted 180-second match timeline into BR_FSM_Sim (v3)
-%  Signal names match build_br_fsm.m v3 exactly.
+%  Feeds scripted 180-second match timeline into BR_FSM_Sim (v4)
+%  Signal names match build_br_fsm.m v4 exactly.
 %  -----------------------------------------------------------------------
 
 modelName = 'BR_FSM_Sim';
@@ -11,7 +11,7 @@ else
     load_system(modelName);
 end
 
-%% ======  ALL SIGNALS (must match inputDefs in build_br_fsm v3)  ======
+%% ======  ALL SIGNALS (must match inputDefs in build_br_fsm v4)  ======
 allSignals = {
     'start_buzzer'
     'stair_detected'
@@ -228,6 +228,8 @@ for s = 1:length(allSignals)
     % Defaults
     if strcmp(sig, 'match_time')
         sigData = tVec;
+    elseif strcmp(sig, 'blocks_carried')
+        sigData = 2 * ones(nSteps, 1);
     elseif strcmp(sig, 'block_color')
         sigData = ones(nSteps, 1);
     else
@@ -253,7 +255,7 @@ for s = 1:length(allSignals)
 end
 
 %% ======  RUN  ======
-fprintf('\n=== BR FSM v3 Test — 180s, 21 States ===\n');
+fprintf('\n=== BR FSM v4 Test — 180s, 30 States ===\n');
 simOut = sim(modelName, 'StopTime', '180');
 fprintf('  Done!\n\n');
 
@@ -264,17 +266,17 @@ stateNames = { ...
     '9:DRV\_TWR','10:DET\_SPOT','11:ALIGN','12:PLACE', ...
     '13:CHK\_SANC','14:RETURN','15:WAIT\_MUS','16:PICK\_MUS', ...
     '17:NAV\_L2','18:ALIGN\_PIL','19:ENSHRINE','20:COMPLETE', ...
-    '21:RECOVERY'};
+    '21:RECOVERY', '22:DECIDE','23:EMERG\_DROP','24:NAV\_UP\_L2','25:ENGAGE\_L2','26:CLIMB\_L2','27:SNATCH','28:NAV\_DN\_L2','29:DESCEND','30:PLACE\_STOLEN'};
 
 yout = simOut.yout;
 
-figure('Name','BR FSM v3 — State Timeline','Position',[80 80 1250 750],'Color','w');
+figure('Name','BR FSM v4 — State Timeline','Position',[80 80 1250 750],'Color','w');
 
 subplot(3,1,1);
 stairs(yout{1}.Values.Time, yout{1}.Values.Data, 'b-', 'LineWidth', 2);
 ylabel('State','FontWeight','bold');
-title('Builder Robot FSM v3 — Autonomous State Progression','FontSize',13,'FontWeight','bold');
-yticks(1:21); yticklabels(stateNames); ylim([0.5 21.5]); xlim([0 180]); grid on;
+title('Builder Robot FSM v4 — Autonomous State Progression','FontSize',13,'FontWeight','bold');
+yticks([1 5 10 15 20 25 30]); yticklabels(stateNames([1 5 10 15 20 25 30])); ylim([0.5 30.5]); xlim([0 180]); grid on;
 
 subplot(3,1,2);
 stairs(yout{2}.Values.Time, yout{2}.Values.Data, 'Color',[0.85 0.33 0.1], 'LineWidth',1.8);

@@ -41,11 +41,11 @@ fprintf('===============================================================\n\n');
 % 4) Visual Search:   States 10, 11, 18
 % 5) Wait / Idle:     States 1, 7, 13, 15, 20, 21
 
-timeClimb   = sum(ismember(stateData, [2 3 4 5])) * dt;
+timeClimb   = sum(ismember(stateData, [2 3 4 5 24 25 26 28 29])) * dt;
 timeDrive   = sum(ismember(stateData, [6 9 14 17])) * dt;
-timeHandle  = sum(ismember(stateData, [8 12 16 19])) * dt;
-timeVision  = sum(ismember(stateData, [10 11 18])) * dt;
-timeWait    = sum(ismember(stateData, [1 7 13 15 20 21])) * dt;
+timeHandle  = sum(ismember(stateData, [8 12 16 19 27 30])) * dt;
+timeVision  = sum(ismember(stateData, [10 11 18 22])) * dt;
+timeWait    = sum(ismember(stateData, [1 7 13 15 20 21 23])) * dt;
 
 % Match completion time (first time state reaches 20)
 idxComplete = find(stateData == 20, 1);
